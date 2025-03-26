@@ -1,6 +1,9 @@
+![logo](https://github.com/Heyyasshhh/Heyyasshhh/blob/main/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 <h1 align="center">Hi 👋, I'm Yash Haldankar</h1>
 <h3 align="center">👨‍💻 Tech Enthusiast | Exploring Full Stack Development & Problem-Solving</h3>
 
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/6tXM.gif">
+ 
 - 🌱 I’m currently learning **Full Stack Development (Frontend, Database & Backend)**
 
 - 👨‍💻 All of my projects are available at [github.com/Heyyasshhh](github.com/Heyyasshhh)
@@ -9,7 +12,7 @@
 
 - 📫 How to reach me **yashhaldankar02@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1e53gWUZJ_QhgMtlEWSxeO4SGQY_7ank5/view?usp=drive_link](https://drive.google.com/file/d/1e53gWUZJ_QhgMtlEWSxeO4SGQY_7ank5/view?usp=drive_link)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1e53gWUZJ_QhgMtlEWSxeO4SGQY_7ank5/view?usp=drive_link">here</a>
 
 - ⚡ Fun fact **I’m a Full Stack Developer in the making, but I still get excited every time my code runs perfectly on the first try! 🎉😆**
 
